@@ -1,4 +1,4 @@
-> 借鉴开源代码(https://github.com/Leey21/awesome-ai-research-writing)，  制作中文版本的提示词仓库
+> 借鉴开源代码(https://github.com/Leey21/awesome-ai-research-writing)  制作中文版本的提示词仓库
 > 
 ## 📖 为什么做这个项目
 
